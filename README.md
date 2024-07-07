@@ -1,6 +1,7 @@
 # slack-user-email-fetcher
 
-This Python script fetches email addresses for a list of Slack user IDs using the Slack API. It includes error handling and a retry mechanism for improved reliability.
+This Python script fetches email addresses for a list of Slack user IDs using the Slack API. 
+Before using the script, you need to obtain the Slack user IDs. You can get these IDs from various Slack API method test pages, such as [reactions.get method](https://api.slack.com/methods/reactions.get/test).
 
 ## Installation & Usage
 
